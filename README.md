@@ -6,5 +6,7 @@
  - Módulo2: Entendendo o que é semântica
  - Módulo3: Usando textos e links em HTML
  - Módulo4: Inserindo imagens com tag IMG
+ - Módulo5: Organizando Listas em HTML
  
+
 
