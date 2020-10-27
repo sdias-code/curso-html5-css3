@@ -5,4 +5,6 @@
  - Módulo1: Estrutura Básica
  - Módulo2: Entendendo o que é semântica
  - Módulo3: Usando textos e links em HTML
+ - Módulo4: Inserindo imagens com tag IMG
  
+
