@@ -10,6 +10,7 @@
  - Módulo5: Organizando Listas em HTML
  - Módulo6: Introdução e conceitos básicos CSS3
  - Módulo7: Estilizando elementos, textos e listas
+ - Módulo8: Dimensão e alinhamento
 
  
 
